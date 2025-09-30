@@ -1,3 +1,12 @@
+/* 
+  This is a simple program to calculate the area of 3 shapes:
+  - Rectangle
+  - Square
+  - Circle
+
+  Find ways to improve the code.
+*/
+
 #include <iostream>
 using namespace std;
 

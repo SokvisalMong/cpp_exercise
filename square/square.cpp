@@ -1,3 +1,9 @@
+/* 
+  This is a program to calculate the square of a number
+
+  Find ways to improve the code.
+*/
+
 #include <iostream>
 using namespace std;
 
